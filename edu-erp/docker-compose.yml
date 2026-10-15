@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: edu-erp-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: eduerp
+      POSTGRES_USER: eduerp
+      POSTGRES_PASSWORD: eduerp
+    ports:
+      - "5432:5432"
+    volumes:
+      - edu-erp-pgdata:/var/lib/postgresql/data
+
+volumes:
+  edu-erp-pgdata:
