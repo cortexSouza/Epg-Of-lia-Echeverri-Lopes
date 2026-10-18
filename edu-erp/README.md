@@ -63,33 +63,18 @@ src/main/resources/
 4. Adicionar testes unitários em `AlunoService` com JUnit + Mockito
 
 
-## Objetivo do Proj + Explicacoes + Mensagem aos colegas e recrutadores
+## Objetivo do Proj + Explicações
 
-***Esse e um projeto sem fins lucrativos, apenas para aprendizado e primoramento das minhas skills. 
+***Esse é um projeto sem fins lucrativos, apenas para aprendizado e aprimoramento das minhas skills. 
 
-O objetivo desse projeto e criar uma aplicacao 100% funcional de um ERP Educacional. Estou fazendo isso para aprendizado,
+O objetivo desse projeto é criar uma aplicação 100% funcional de um ERP Educacional. Estou fazendo isso para aprendizado,
 sem qualquer fim lucrativo.
 
-Provavelmente esse projeto ira ficar um coco, tanto em seguranca quanto em funcionalidade. Mas, acredito que quem 
-nao apanha nao aprende. 
+O nome é de uma escola de verdade. Escolhi essa escola pública porque foi onde estudei, fiz meu ensino fundamental lá, 
+então tenho um certo apego emocional por ela, mesmo tendo sofrido bulling nesse período da minha vida por ser nerd kkkk. Isso aqui NÃO E UM PRODUTO, NÃO POSSUI QUALQUER FIM LUCRATIVO, é apenas um projeto de estudo,
+não tenho nenhuma responsabilidade sobre uso indevido, cópia, ou qualquer evento de terceiros sobre esse software!
 
-O nome e de uma escola de verdade. Escolhi essa escola publica porque foi onde estudei, fiz meu ensino fundamental la, 
-entao tenho um certo apego emocional por ela, mesmo tendo sofrido bulling nesse periodo da minha vida por ser nerd kkkk.
-Realmente nao sei se tem algum problema juridico em escolher esse nome e na verdade, eu nem me importo, nao ligo para 
-politicagem e burocracias. Isso aqui NAO E UM PRODUTO, NAO POSSUI QUALQUER FIM LUCRATIVO, e apenas um projeto de estudo,
-nao tenho nenhuma responsabilidade sobre uso indevido, copia, ou qualquer evento de terceiros sobre esse codigo!
-
-Esse codigo nao e nenhum tipo de copia de qualquer software ja existente, estou fazendo tudo por conta, utilizando apenas 
-as fetamentas elencadas acima, IA e o tico e teco que residem em minha cabeca. 
-
-No mais, se voce leu ate aqui, provavelmente e um recrutador, um curioso ou um conhecido, talvez um quase colega, como diria 
-Luiz Crazy Near (Caso tenha pego a referencia, sujiro que passe menos tempo em redes sociais e mais tempo fazendo coisas 
-uteis). Peco perdao pela escrita, meu teclado e padrao norte americano, e eu sou preguicoso demais para arrumar esse texto,
-prefiro gastar meu tempo desenvolveldo/estudando, dormindo ou jogando.
-
-A voce, sim, voce RECRUTADOR!!! Me contrate! Afinal, preciso de dinheiro para comprar materia prima para meus codigos, que sao
-pizzas e cafe. 
-
-Aos colegas, sejam bem vindos! 
+Esse código não e nenhum tipo de cópia de qualquer software já existente, estou fazendo tudo por conta, utilizando apenas 
+as ferramentas elencadas acima, IA e o tico e teco que residem em minha cabeça. 
 
 OBS: IA utilizada nesse projeto: Todas, no plano gratuito. Via CLI, utilizado Junie integrado ao IntelliJ.
